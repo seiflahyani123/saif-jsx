@@ -1,3 +1,51 @@
+exercice:
+Ce que vous visez
+
+Dans ce point de contrôle, nous établirons notre premier contact avec React.
+
+
+Instructions
+
+     Installez NodeJS et VSCode à partir des liens suivants :
+
+o https://code.visualstudio.com/
+
+o https://nodejs.org/fr
+
+· Créez une application React en utilisant la commande ` npx create-react-app <project-name>` (assurez-vous de remplacer <project-name> par le nom de votre projet).
+
+· Après avoir créé l'application React, supprimez tous les fichiers du dossier « src » à l'exception de reportWebVitals.js et index.js
+
+Créez un nouveau fichier appelé App.js contenant le composant App de ce projet. Assurez-vous d'importer tout ce dont vous avez besoin, y compris react-bootstrap .
+
+· Consultez la documentation de react-bootstrap, accédez à la page Web « Commencer » et installez et importez les modules nécessaires comme spécifié dans les étapes.
+
+· À l'intérieur du composant App, créez un fragment React (recherchez les fragments React et leurs utilisations) et créez à l'intérieur un div avec le className « App ».
+
+· À l'intérieur du div, utilisez react-bootstrap pour créer une barre de navigation, un titre et 3 cartes (recherchez des barres de navigation, des cartes et un titre dans react-bootstrap).
+
+· Lorsque vous avez terminé, exécutez votre projet en utilisant la commande ` npm start .`
+
+· Pour toute référence, veuillez vérifier les éléments suivants :
+
+ou https://react.dev/
+
+o https://react-bootstrap.github.io/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
